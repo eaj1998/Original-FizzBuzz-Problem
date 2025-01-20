@@ -1,0 +1,11 @@
+C:\Estudo\Original-FizzBuzz-Problem\TwistedFizzBuzzSolution\TwistedFizzBuzzApplication\bin\Debug\TwistedFizzBuzzApplication.exe.config
+C:\Estudo\Original-FizzBuzz-Problem\TwistedFizzBuzzSolution\TwistedFizzBuzzApplication\bin\Debug\TwistedFizzBuzzApplication.exe
+C:\Estudo\Original-FizzBuzz-Problem\TwistedFizzBuzzSolution\TwistedFizzBuzzApplication\bin\Debug\TwistedFizzBuzzApplication.pdb
+C:\Estudo\Original-FizzBuzz-Problem\TwistedFizzBuzzSolution\TwistedFizzBuzzApplication\bin\Debug\TwistedFizzBuzz.dll
+C:\Estudo\Original-FizzBuzz-Problem\TwistedFizzBuzzSolution\TwistedFizzBuzzApplication\bin\Debug\TwistedFizzBuzz.pdb
+C:\Estudo\Original-FizzBuzz-Problem\TwistedFizzBuzzSolution\TwistedFizzBuzzApplication\bin\Debug\TwistedFizzBuzz.dll.config
+C:\Estudo\Original-FizzBuzz-Problem\TwistedFizzBuzzSolution\TwistedFizzBuzzApplication\obj\Debug\TwistedFizzBuzzApplication.csproj.AssemblyReference.cache
+C:\Estudo\Original-FizzBuzz-Problem\TwistedFizzBuzzSolution\TwistedFizzBuzzApplication\obj\Debug\TwistedFizzBuzzApplication.csproj.CoreCompileInputs.cache
+C:\Estudo\Original-FizzBuzz-Problem\TwistedFizzBuzzSolution\TwistedFizzBuzzApplication\obj\Debug\TwistedF.3E574428.Up2Date
+C:\Estudo\Original-FizzBuzz-Problem\TwistedFizzBuzzSolution\TwistedFizzBuzzApplication\obj\Debug\TwistedFizzBuzzApplication.exe
+C:\Estudo\Original-FizzBuzz-Problem\TwistedFizzBuzzSolution\TwistedFizzBuzzApplication\obj\Debug\TwistedFizzBuzzApplication.pdb

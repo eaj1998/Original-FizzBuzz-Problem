@@ -1,0 +1,87 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Estudo\\Original-FizzBuzz-Problem\\TwistedFizzBuzzSolution\\TwistedFizzBuzz.Tests\\TwistedFizzBuzz.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Estudo\\Original-FizzBuzz-Problem\\TwistedFizzBuzzSolution\\TwistedFizzBuzz.Tests\\TwistedFizzBuzz.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Estudo\\Original-FizzBuzz-Problem\\TwistedFizzBuzzSolution\\TwistedFizzBuzz.Tests\\TwistedFizzBuzz.Tests.csproj",
+        "projectName": "TwistedFizzBuzz.Tests",
+        "projectPath": "C:\\Estudo\\Original-FizzBuzz-Problem\\TwistedFizzBuzzSolution\\TwistedFizzBuzz.Tests\\TwistedFizzBuzz.Tests.csproj",
+        "packagesPath": "C:\\Users\\UON Edipo\\.nuget\\packages\\",
+        "outputPath": "C:\\Estudo\\Original-FizzBuzz-Problem\\TwistedFizzBuzzSolution\\TwistedFizzBuzz.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\UON Edipo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {
+              "C:\\Estudo\\Original-FizzBuzz-Problem\\TwistedFizzBuzzSolution\\TwistedFizzBuzz\\TwistedFizzBuzz.csproj": {
+                "projectPath": "C:\\Estudo\\Original-FizzBuzz-Problem\\TwistedFizzBuzzSolution\\TwistedFizzBuzz\\TwistedFizzBuzz.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "MSTest": {
+              "target": "Package",
+              "version": "[3.6.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.11.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Estudo\\Original-FizzBuzz-Problem\\TwistedFizzBuzzSolution\\TwistedFizzBuzz\\TwistedFizzBuzz.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Estudo\\Original-FizzBuzz-Problem\\TwistedFizzBuzzSolution\\TwistedFizzBuzz\\TwistedFizzBuzz.csproj",
+        "projectName": "TwistedFizzBuzz",
+        "projectPath": "C:\\Estudo\\Original-FizzBuzz-Problem\\TwistedFizzBuzzSolution\\TwistedFizzBuzz\\TwistedFizzBuzz.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

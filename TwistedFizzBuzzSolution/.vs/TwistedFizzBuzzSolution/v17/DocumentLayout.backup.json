@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Estudo\\Original-FizzBuzz-Problem\\TwistedFizzBuzzSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FC3E9D6-5FDC-42FA-AC46-544F718AF7F4}|TwistedFizzBuzz.Tests\\TwistedFizzBuzz.Tests.csproj|c:\\estudo\\original-fizzbuzz-problem\\twistedfizzbuzzsolution\\twistedfizzbuzz.tests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FC3E9D6-5FDC-42FA-AC46-544F718AF7F4}|TwistedFizzBuzz.Tests\\TwistedFizzBuzz.Tests.csproj|solutionrelative:twistedfizzbuzz.tests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA5FE09E-BDC6-48F1-ADA7-57BB9D40C6FF}|TwistedFizzBuzz\\TwistedFizzBuzz.csproj|c:\\estudo\\original-fizzbuzz-problem\\twistedfizzbuzzsolution\\twistedfizzbuzz\\fizzbuzzfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA5FE09E-BDC6-48F1-ADA7-57BB9D40C6FF}|TwistedFizzBuzz\\TwistedFizzBuzz.csproj|solutionrelative:twistedfizzbuzz\\fizzbuzzfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BE6293-9324-4C31-AAED-9F9EDC199A6B}|StandardFizzBuzzProblem\\StandardFizzBuzzProblem.csproj|c:\\estudo\\original-fizzbuzz-problem\\twistedfizzbuzzsolution\\standardfizzbuzzproblem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2BE6293-9324-4C31-AAED-9F9EDC199A6B}|StandardFizzBuzzProblem\\StandardFizzBuzzProblem.csproj|solutionrelative:standardfizzbuzzproblem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF90C3A-6191-4DE0-A6D3-A5BDA15E58BF}|TwistedFizzBuzzApplication\\TwistedFizzBuzzApplication.csproj|c:\\estudo\\original-fizzbuzz-problem\\twistedfizzbuzzsolution\\twistedfizzbuzzapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF90C3A-6191-4DE0-A6D3-A5BDA15E58BF}|TwistedFizzBuzzApplication\\TwistedFizzBuzzApplication.csproj|solutionrelative:twistedfizzbuzzapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{99b8fa2f-ab90-4f57-9c32-949f146f1914}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Estudo\\Original-FizzBuzz-Problem\\TwistedFizzBuzzSolution\\TwistedFizzBuzz.Tests\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "TwistedFizzBuzz.Tests\\MSTestSettings.cs",
+              "ToolTip": "C:\\Estudo\\Original-FizzBuzz-Problem\\TwistedFizzBuzzSolution\\TwistedFizzBuzz.Tests\\MSTestSettings.cs",
+              "RelativeToolTip": "TwistedFizzBuzz.Tests\\MSTestSettings.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAMwF8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T01:52:07.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Estudo\\Original-FizzBuzz-Problem\\TwistedFizzBuzzSolution\\StandardFizzBuzzProblem\\Program.cs",
+              "RelativeDocumentMoniker": "StandardFizzBuzzProblem\\Program.cs",
+              "ToolTip": "C:\\Estudo\\Original-FizzBuzz-Problem\\TwistedFizzBuzzSolution\\StandardFizzBuzzProblem\\Program.cs",
+              "RelativeToolTip": "StandardFizzBuzzProblem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T01:43:43.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FizzBuzzFactory.cs",
+              "DocumentMoniker": "C:\\Estudo\\Original-FizzBuzz-Problem\\TwistedFizzBuzzSolution\\TwistedFizzBuzz\\FizzBuzzFactory.cs",
+              "RelativeDocumentMoniker": "TwistedFizzBuzz\\FizzBuzzFactory.cs",
+              "ToolTip": "C:\\Estudo\\Original-FizzBuzz-Problem\\TwistedFizzBuzzSolution\\TwistedFizzBuzz\\FizzBuzzFactory.cs",
+              "RelativeToolTip": "TwistedFizzBuzz\\FizzBuzzFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T01:42:56.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Estudo\\Original-FizzBuzz-Problem\\TwistedFizzBuzzSolution\\TwistedFizzBuzzApplication\\Program.cs",
+              "RelativeDocumentMoniker": "TwistedFizzBuzzApplication\\Program.cs",
+              "ToolTip": "C:\\Estudo\\Original-FizzBuzz-Problem\\TwistedFizzBuzzSolution\\TwistedFizzBuzzApplication\\Program.cs",
+              "RelativeToolTip": "TwistedFizzBuzzApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T01:38:35.006Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

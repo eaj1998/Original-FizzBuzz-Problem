@@ -1,0 +1,11 @@
+C:\Estudo\Original-FizzBuzz-Problem\TwistedFizzBuzzSolution\StandardFizzBuzzProblem\bin\Debug\StandardFizzBuzzProblem.exe.config
+C:\Estudo\Original-FizzBuzz-Problem\TwistedFizzBuzzSolution\StandardFizzBuzzProblem\bin\Debug\StandardFizzBuzzProblem.exe
+C:\Estudo\Original-FizzBuzz-Problem\TwistedFizzBuzzSolution\StandardFizzBuzzProblem\bin\Debug\StandardFizzBuzzProblem.pdb
+C:\Estudo\Original-FizzBuzz-Problem\TwistedFizzBuzzSolution\StandardFizzBuzzProblem\bin\Debug\TwistedFizzBuzz.dll
+C:\Estudo\Original-FizzBuzz-Problem\TwistedFizzBuzzSolution\StandardFizzBuzzProblem\bin\Debug\TwistedFizzBuzz.pdb
+C:\Estudo\Original-FizzBuzz-Problem\TwistedFizzBuzzSolution\StandardFizzBuzzProblem\bin\Debug\TwistedFizzBuzz.dll.config
+C:\Estudo\Original-FizzBuzz-Problem\TwistedFizzBuzzSolution\StandardFizzBuzzProblem\obj\Debug\StandardFizzBuzzProblem.csproj.AssemblyReference.cache
+C:\Estudo\Original-FizzBuzz-Problem\TwistedFizzBuzzSolution\StandardFizzBuzzProblem\obj\Debug\StandardFizzBuzzProblem.csproj.CoreCompileInputs.cache
+C:\Estudo\Original-FizzBuzz-Problem\TwistedFizzBuzzSolution\StandardFizzBuzzProblem\obj\Debug\Standard.310A0491.Up2Date
+C:\Estudo\Original-FizzBuzz-Problem\TwistedFizzBuzzSolution\StandardFizzBuzzProblem\obj\Debug\StandardFizzBuzzProblem.exe
+C:\Estudo\Original-FizzBuzz-Problem\TwistedFizzBuzzSolution\StandardFizzBuzzProblem\obj\Debug\StandardFizzBuzzProblem.pdb
