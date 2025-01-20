@@ -22,19 +22,14 @@ namespace TwistedFizzBuzz
         }
 
         public IEnumerable<string> GenerateFizzBuzzRange(int start, int end, Dictionary<int, string> divisors)
-        {
+        {           
+            if(start > end)
+            {
+                return Enumerable.Empty<string>();
+            }
+
             var range = Enumerable.Range(start, end - start + 1);
             return GenerateFizzBuzz(range, divisors);
-        }
-
-        public async Task<Dictionary<int, string>> FetchTokensFromAPI(string apiUrl)
-        {
-            using (var httpClient = new HttpClient())
-            {
-                var response = await httpClient.GetStringAsync(apiUrl);
-                return JsonSerializer.Deserialize<Dictionary<int, string>>(response)
-                       ?? new Dictionary<int, string>();
-            };
         }
     }
 }

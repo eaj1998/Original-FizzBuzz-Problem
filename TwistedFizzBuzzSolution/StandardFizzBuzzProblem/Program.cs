@@ -8,7 +8,7 @@ namespace StandardFizzBuzzProblem
     {
         static void Main(string[] args)
         {
-            var generator = new FizzBuzzFactory();
+            var fizzbuzzFactory = new FizzBuzzFactory();
             var divisors = new Dictionary<int, string>
         {
             { 3, "Fizz" },
@@ -16,7 +16,7 @@ namespace StandardFizzBuzzProblem
         };
             Console.WriteLine("Standard FizzBuzz Problem");
 
-            var results = generator.GenerateFizzBuzzRange(1, 100, divisors);
+            var results = fizzbuzzFactory.GenerateFizzBuzzRange(1, 100, divisors);
 
             foreach (var result in results)
             {

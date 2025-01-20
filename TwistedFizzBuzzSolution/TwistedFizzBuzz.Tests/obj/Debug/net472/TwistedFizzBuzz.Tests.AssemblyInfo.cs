@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TwistedFizzBuzz.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7780ae41f3fade76ac9082cea653e0267c1cdd8d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28ff511e1c684cff89db671c7bb56c086407b4da")]
 [assembly: System.Reflection.AssemblyProductAttribute("TwistedFizzBuzz.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TwistedFizzBuzz.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
